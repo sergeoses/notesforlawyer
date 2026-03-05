@@ -4,7 +4,7 @@
         <title>Notes For Lawyer </title>
         <link>https://notesforlawyer.pp.ua/</link>
         <description>Posts from Notes For Lawyer </description>
-        <lastBuildDate>2026-03-05T10:09:41.755Z</lastBuildDate>
+        <lastBuildDate>2026-03-05T10:11:35.629Z</lastBuildDate>
         <generator>Postalgic</generator>
         <docs>https://www.rssboard.org/rss-specification</docs>
         <managingEditor>Serhii Sarnavskyi </managingEditor>
@@ -14,9 +14,9 @@
             <link>https://notesforlawyer.pp.ua/2026/03/05/115851/</link>
             <description><![CDATA[<p>Мета: агрегація новин, розбір законів та інструкції для громадян і бізнесу.</p><button onclick="let content = this.nextElementSibling; if(content.style.display === 'none') { content.style.display = 'block'; this.innerText = 'Приховати'; } else { content.style.display = 'none'; this.innerText = 'Читати далі'; }" style="background-color: #007bff; color: white; border: none; padding: 8px 16px; cursor: pointer; border-radius: 4px; margin: 10px 0;">Читати далі</button><div style="display: none;">
 
-Тут розміщується прихований текст допису. 
+База — відкриті реєстри та НПА. Авторські матеріали захищені (No License). Копіювання НПА регулюється законодавством України і не є об’єктом авторського права.
 
-</div><p>База — відкриті реєстри та НПА. Авторські матеріали захищені (No License). Копіювання НПА регулюється законодавством України і не є об’єктом авторського права.</p>]]></description>
+</div>]]></description>
             <pubDate>2026-03-05T09:58:51.071Z</pubDate>
             <guid isPermaLink="true">https://notesforlawyer.pp.ua/2026/03/05/115851/</guid>
             <author>sarnavskyiserhii@gmail.com (Serhii Sarnavskyi )</author>
