@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://notesforlawyer.pp.ua/sitemap.xml
