@@ -250,48 +250,10 @@
                 <div class="post-author"> by <a href="https://github.com/sergeoses">Serhii Sarnavskyi </a></div>
         
             <div class="post-content">
-                <p>Мета: агрегація новин, розбір законів та інструкції для громадян і бізнесу.</p><div style="display: inline;">
-  <style>
-    .more-text-widget { 
-      display: none; 
-    }
-    .readMoreBtn-widget {
-      background-color: #007bff;
-      color: white;
-      border: none;
-      padding: 8px 16px;
-      cursor: pointer;
-      border-radius: 4px;
-      font-size: 14px;
-      margin-top: 10px;
-      display: block;
-    }
-    .readMoreBtn-widget:hover { 
-      background-color: #0056b3; 
-    }
-  </style>
+                <p>Мета: агрегація новин, розбір законів та інструкції для громадян і бізнесу.</p><button onclick="let content = this.nextElementSibling; if(content.style.display === 'none') { content.style.display = 'block'; this.innerText = 'Приховати'; } else { content.style.display = 'none'; this.innerText = 'Читати далі'; }" style="background-color: #007bff; color: white; border: none; padding: 8px 16px; cursor: pointer; border-radius: 4px; margin: 10px 0;">Читати далі</button><div style="display: none;">
 
-  <span class="dots-widget">...</span><span class="more-text-widget">Тут розміщується прихований текст.</span>
-  
-  <button onclick="toggleTextWidget(this)" class="readMoreBtn-widget">Читати далі</button>
+Тут розміщується прихований текст допису. 
 
-  <script>
-    function toggleTextWidget(btn) {
-      var container = btn.parentElement;
-      var dots = container.querySelector('.dots-widget');
-      var moreText = container.querySelector('.more-text-widget');
-
-      if (dots.style.display === "none") {
-        dots.style.display = "inline";
-        btn.innerHTML = "Читати далі";
-        moreText.style.display = "none";
-      } else {
-        dots.style.display = "none";
-        btn.innerHTML = "Приховати";
-        moreText.style.display = "inline";
-      }
-    }
-  </script>
 </div><p>База — відкриті реєстри та НПА. Авторські матеріали захищені (No License). Копіювання НПА регулюється законодавством України і не є об’єктом авторського права.</p>
             </div>
         
