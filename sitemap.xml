@@ -2,29 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://notesforlawyer.pp.ua/</loc>
-        <lastmod>2026-03-05T10:17:23.264Z</lastmod>
+        <lastmod>2026-03-05T10:32:02.978Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>https://notesforlawyer.pp.ua/archives/</loc>
-        <lastmod>2026-03-05T10:17:23.264Z</lastmod>
+        <lastmod>2026-03-05T10:32:02.978Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://notesforlawyer.pp.ua/tags/</loc>
-        <lastmod>2026-03-05T10:17:23.264Z</lastmod>
+        <lastmod>2026-03-05T10:32:02.978Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://notesforlawyer.pp.ua/categories/</loc>
-        <lastmod>2026-03-05T10:17:23.264Z</lastmod>
+        <lastmod>2026-03-05T10:32:02.978Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
     
+    <url>
+        <loc>https://notesforlawyer.pp.ua/2026/03/05/tyyh/</loc>
+        <lastmod>2026-03-05T10:31:59.386Z</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
     <url>
         <loc>https://notesforlawyer.pp.ua/2026/03/05/115851/</loc>
         <lastmod>2026-03-05T09:58:51.071Z</lastmod>
@@ -35,14 +41,14 @@
     
     <url>
         <loc>https://notesforlawyer.pp.ua/categories/about-blog/</loc>
-        <lastmod>2026-03-05T10:17:23Z</lastmod>
+        <lastmod>2026-03-05T10:32:02Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>https://notesforlawyer.pp.ua/2026/03/</loc>
-        <lastmod>2026-03-05T10:17:23Z</lastmod>
+        <lastmod>2026-03-05T10:32:02Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
